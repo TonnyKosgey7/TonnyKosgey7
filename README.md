@@ -19,11 +19,11 @@ You can click the Preview link to take a look at your changes.
   ### Hi there 👋
  ✨ Welcome To My Profile ✨
 
-- 🔭 I’m currently a software developer at Bityarn Consult using LAMP stack
+- 🔭 I’m currently a software developer at Apace Technologies using LAMP stack
 - 🌱 I’m currently learning MERN stack and building a Digital Out Of Home programmatic solution.
-- 📫 How to reach me: [Email] :(tonnykosgey7@gmail.com): [Twitter]: (https://twitter.com/mesh_korir)
+- 📫 How to reach me: [Email] :(tonnykosgey7@gmail.com): [Twitter]: (https://twitter.com/tonnykosgey7)
 
-- ⚡ Fun fact: I enjoy playing the saxophone🎷🎷
+- ⚡ Fun fact: I enjoy playing Racing Games🎷🎷
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonnyKosgey7&theme=dark)](https://git.io/streak-stats)
 
